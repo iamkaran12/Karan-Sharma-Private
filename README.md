@@ -12,22 +12,6 @@ For each endpoint, please provide:
 
 1. **All possible HTTP status codes**, including but not limited to:
 
-   * **`400 Bad Request`**
-
-   * **`401 Unauthorized`**
-
-   * **`403 Forbidden`**
-
-   * **`404 Not Found`**
-
-   * **`409 Conflict`**
-
-   * **`422 Unprocessable Entity`**
-
-   * **`429 Too Many Requests`**
-
-   * Any other custom or business-specific codes
-
 2. **Exact JSON error response structure**, including:
 
    * Field names
